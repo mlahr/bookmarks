@@ -5,20 +5,8 @@
 
 <folder id="1">
   <title>Window 0</title>
-  <bookmark href="https://copilot-workspace.githubnext.com/" id="2">
-    <title>Copilot Workspace</title>
-  </bookmark>
-  <bookmark href="https://www.reddit.com/r/selfhosted/comments/1er80z6/what_bookmarking_service_do_you_use/" id="3">
-    <title>What bookmarking service do you use? : r/selfhosted</title>
-  </bookmark>
-  <bookmark href="https://github.com/floccusaddon/floccus/issues/1623" id="4">
-    <title>HTTP 401 Error · Issue #1623 · floccusaddon/floccus</title>
-  </bookmark>
-  <bookmark href="https://github.com/mlahr/bookmarks/settings/pages" id="5">
-    <title>Pages</title>
-  </bookmark>
-  <bookmark href="https://mail.google.com/mail/u/0/#inbox" id="6">
-    <title>Inbox - michael.lahr@bitwert.de - Squad-C Mail</title>
+  <bookmark href="https://www.linkedin.com/notifications/?filter=all" id="2">
+    <title>Notifications | LinkedIn</title>
   </bookmark>
 </folder>
 </xbel>
